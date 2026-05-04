@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bag_vertising_react/static/css/main.64a4e32c.css",
-    "main.js": "/bag_vertising_react/static/js/main.a21057d4.js",
+    "main.js": "/bag_vertising_react/static/js/main.33846212.js",
     "static/js/453.5d3d6c13.chunk.js": "/bag_vertising_react/static/js/453.5d3d6c13.chunk.js",
     "index.html": "/bag_vertising_react/index.html",
     "main.64a4e32c.css.map": "/bag_vertising_react/static/css/main.64a4e32c.css.map",
-    "main.a21057d4.js.map": "/bag_vertising_react/static/js/main.a21057d4.js.map",
+    "main.33846212.js.map": "/bag_vertising_react/static/js/main.33846212.js.map",
     "453.5d3d6c13.chunk.js.map": "/bag_vertising_react/static/js/453.5d3d6c13.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.64a4e32c.css",
-    "static/js/main.a21057d4.js"
+    "static/js/main.33846212.js"
   ]
 }
